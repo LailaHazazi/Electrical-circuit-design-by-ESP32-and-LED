@@ -8,3 +8,4 @@ Equipment
 -Resistors
 
 Circuit Diagram
+![Screenshot 2024-07-23 003929](https://github.com/user-attachments/assets/c96d8bb8-0656-4f05-985a-1935f1e310f5)
