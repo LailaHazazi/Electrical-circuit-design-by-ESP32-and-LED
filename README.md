@@ -2,10 +2,7 @@
 This project is to learn about ESP32 and how to use it.
 It is a simple circuit using an ESP32, where an LED turns on every 500 ms.
 
-Equipment
--ESP32 
-- LED
--Resistors
+Equipment: 1-ESP32  2-LED 3-Resistors
 
 
 Circuit Diagram
